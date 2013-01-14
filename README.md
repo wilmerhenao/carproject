@@ -1,10 +1,10 @@
 carproject
 ==========
 
-* Works on Linux (Ubuntu)
+* Works on Linux (Originally on Ubuntu)
 * Compiles just by using make
    g++ -o car car.cpp -O2 -lglut -lGL -lGLU
-* ./scenario
+* ./car
 * Got pieces from several places in the web. Everything works nicely but there is a problem with memory that slows things down
 
 ===========
