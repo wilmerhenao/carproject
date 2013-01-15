@@ -10,3 +10,5 @@ carproject
 ===========
 
 Solution to Assignment 1 from here http://cs.nyu.edu/~dzorin/cg11/assignments.html
+
+Watch a video of the solution here http://www.youtube.com/watch?v=mkF7Br865mQ&feature=player_embedded
